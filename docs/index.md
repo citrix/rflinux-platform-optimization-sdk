@@ -1,4 +1,4 @@
-# Platform Optimization SDK for Citrix Receiver for Linux 13.10
+# Platform Optimization SDK for Citrix Receiver for Linux
 
 # Compatibility with Receiver 
 
